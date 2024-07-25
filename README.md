@@ -1,4 +1,4 @@
-# DIO | Resumo Git e GitHub
+# DIO | Resumo Git e GitHub - teste
 
 Repositório para armazenar resumo do Git e GitHub do curso de bootcamp da Dio com Claro da [Digital Innovation One](https://www.dio.me/)
 
