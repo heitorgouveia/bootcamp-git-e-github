@@ -16,6 +16,6 @@ Repositório para armazenar resumo do Git e GitHub do curso de bootcamp da Dio c
 git init
 ```
 
-Teste 1234567
+Teste 1234567123121245113123123155454
 
 ## 🔍Referências 
